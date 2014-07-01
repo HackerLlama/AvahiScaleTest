@@ -1,0 +1,3 @@
+#!/bin/bash
+pipework --wait
+/usr/local/sbin/avahi-daemon --file=/etc/avahi/avahi-daemon.conf
